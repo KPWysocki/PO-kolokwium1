@@ -1,0 +1,13 @@
+D:\PO\Zad4\Zad4\bin\Debug\netcoreapp3.1\Zad4.exe
+D:\PO\Zad4\Zad4\bin\Debug\netcoreapp3.1\Zad4.deps.json
+D:\PO\Zad4\Zad4\bin\Debug\netcoreapp3.1\Zad4.runtimeconfig.json
+D:\PO\Zad4\Zad4\bin\Debug\netcoreapp3.1\Zad4.runtimeconfig.dev.json
+D:\PO\Zad4\Zad4\bin\Debug\netcoreapp3.1\Zad4.dll
+D:\PO\Zad4\Zad4\bin\Debug\netcoreapp3.1\Zad4.pdb
+D:\PO\Zad4\Zad4\obj\Debug\netcoreapp3.1\Zad4.csprojAssemblyReference.cache
+D:\PO\Zad4\Zad4\obj\Debug\netcoreapp3.1\Zad4.AssemblyInfoInputs.cache
+D:\PO\Zad4\Zad4\obj\Debug\netcoreapp3.1\Zad4.AssemblyInfo.cs
+D:\PO\Zad4\Zad4\obj\Debug\netcoreapp3.1\Zad4.csproj.CoreCompileInputs.cache
+D:\PO\Zad4\Zad4\obj\Debug\netcoreapp3.1\Zad4.dll
+D:\PO\Zad4\Zad4\obj\Debug\netcoreapp3.1\Zad4.pdb
+D:\PO\Zad4\Zad4\obj\Debug\netcoreapp3.1\Zad4.genruntimeconfig.cache
