@@ -1,0 +1,12 @@
+D:\PO\Zad3\Zad3\bin\Debug\netcoreapp3.1\Zad3.exe
+D:\PO\Zad3\Zad3\bin\Debug\netcoreapp3.1\Zad3.deps.json
+D:\PO\Zad3\Zad3\bin\Debug\netcoreapp3.1\Zad3.runtimeconfig.json
+D:\PO\Zad3\Zad3\bin\Debug\netcoreapp3.1\Zad3.runtimeconfig.dev.json
+D:\PO\Zad3\Zad3\bin\Debug\netcoreapp3.1\Zad3.dll
+D:\PO\Zad3\Zad3\bin\Debug\netcoreapp3.1\Zad3.pdb
+D:\PO\Zad3\Zad3\obj\Debug\netcoreapp3.1\Zad3.AssemblyInfoInputs.cache
+D:\PO\Zad3\Zad3\obj\Debug\netcoreapp3.1\Zad3.AssemblyInfo.cs
+D:\PO\Zad3\Zad3\obj\Debug\netcoreapp3.1\Zad3.csproj.CoreCompileInputs.cache
+D:\PO\Zad3\Zad3\obj\Debug\netcoreapp3.1\Zad3.dll
+D:\PO\Zad3\Zad3\obj\Debug\netcoreapp3.1\Zad3.pdb
+D:\PO\Zad3\Zad3\obj\Debug\netcoreapp3.1\Zad3.genruntimeconfig.cache

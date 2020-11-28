@@ -1,0 +1,13 @@
+D:\PO\Zad1\Kalkulator\bin\Debug\netcoreapp3.1\Kalkulator.exe
+D:\PO\Zad1\Kalkulator\bin\Debug\netcoreapp3.1\Kalkulator.deps.json
+D:\PO\Zad1\Kalkulator\bin\Debug\netcoreapp3.1\Kalkulator.runtimeconfig.json
+D:\PO\Zad1\Kalkulator\bin\Debug\netcoreapp3.1\Kalkulator.runtimeconfig.dev.json
+D:\PO\Zad1\Kalkulator\bin\Debug\netcoreapp3.1\Kalkulator.dll
+D:\PO\Zad1\Kalkulator\bin\Debug\netcoreapp3.1\Kalkulator.pdb
+D:\PO\Zad1\Kalkulator\obj\Debug\netcoreapp3.1\Kalkulator.csprojAssemblyReference.cache
+D:\PO\Zad1\Kalkulator\obj\Debug\netcoreapp3.1\Kalkulator.AssemblyInfoInputs.cache
+D:\PO\Zad1\Kalkulator\obj\Debug\netcoreapp3.1\Kalkulator.AssemblyInfo.cs
+D:\PO\Zad1\Kalkulator\obj\Debug\netcoreapp3.1\Kalkulator.csproj.CoreCompileInputs.cache
+D:\PO\Zad1\Kalkulator\obj\Debug\netcoreapp3.1\Kalkulator.dll
+D:\PO\Zad1\Kalkulator\obj\Debug\netcoreapp3.1\Kalkulator.pdb
+D:\PO\Zad1\Kalkulator\obj\Debug\netcoreapp3.1\Kalkulator.genruntimeconfig.cache
